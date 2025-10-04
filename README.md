@@ -37,10 +37,6 @@ The example scenario doesn't matter. What matters is understanding:
 2. How to let it decide which tools to use
 3. How to create a loop where it can keep working until the job is done
 
-Think of this like learning to cook by making scrambled eggs. You're not learning about eggs - you're learning about heat control, timing, and technique. Once you understand that, you can cook anything.
-
-Let's build this step by step.
-
 ---
 
 ## 2. Setting Up Our Environment
