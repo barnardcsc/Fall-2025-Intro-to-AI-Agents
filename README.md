@@ -43,6 +43,8 @@ The example scenario doesn't matter. What matters is understanding:
 
 ### 2.1 Importing Required Libraries
 
+We'll be running this workshop in a Google Colab notebook. You can follow along by opening this link: [**Open in Google Colab**](https://colab.research.google.com/). Google Colab provides a free Python environment that runs in your browser - no installation needed!
+
 Every Python program starts with imports. These are just the libraries we need.
 - `json`: For formatting data
 - `OpenAI`: To talk to the AI
